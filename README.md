@@ -53,12 +53,13 @@ It is designed to improve efficiency, reduce human error, and provide consistent
 
 ```bash
 pip install pandas openpyxl
+```
 
 2. Run the application:
 
 ```bash
 python ASAS.py
-
+```
 3. Upload the required Excel file when prompted
 
 ---
