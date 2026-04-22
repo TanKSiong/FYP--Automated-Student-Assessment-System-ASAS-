@@ -8,6 +8,8 @@ This system eliminates manual calculations by processing assessment data from Ex
 
 It is designed to improve efficiency, reduce human error, and provide consistent academic assessment results.
 
+<img width="896" height="977" alt="image" src="https://github.com/user-attachments/assets/17cebe7b-833b-40cf-8afe-c36456dc62aa" />
+
 ---
 
 ## 🚀 Features
